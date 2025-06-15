@@ -27,6 +27,14 @@
       ],
       "versions": [
         {
+        "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/1.0.2/Seireitei-1.0.2.ipa",
+        "size": 16500000,
+        "version": "1.0.2",
+        "date": "2025-06-15T17:53:00-05:00",
+        "localizedDescription": "Updates: 1. Added a new markdown editor to make posts better 2. Made post card views show more author info",
+        "minOSVersion": null
+        },
+        {
           "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/test/Seireitei.ipa",
           "size": 16500000,
           "version": "1.0.1",
