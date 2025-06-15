@@ -4,8 +4,11 @@
   "description": "Welcome to my source! Here you'll find all of my apps.",
   "iconURL": "https://i.imgur.com/OZYcgH2.png",
   "website": "https://cyberneel.com",
+  "patreonURL": "",
   "tintColor": "#6156e2",
-  "featuredApps": [],
+  "featuredApps": [
+    "com.cyberneel.Seireitei"
+  ],
   "headerURL": "https://i.imgur.com/nhHq9ly.png",
   "apps": [
     {
@@ -13,25 +16,35 @@
       "bundleIdentifier": "com.cyberneel.Seireitei",
       "developerName": "Neelesh Chevuri",
       "subtitle": "An awesome app.",
-      "localizedDescription": "This is an awesome app only available on AltStore.",
-      "iconURL": "https://i.imgur.com/umvBhR0.png",
+      "localizedDescription": "**Idea**\nThe idea is a social media platform for users to create \"Seireitei\" with members in various fields of interest. This way, there is always someone in the group that can help you out when something happens. This is the ultimate social app for groups where everyone watches out for eachother.",
+      "iconURL": "https://i.imgur.com/0LzI2Uo.png",
       "tintColor": "#3636c8",
-      "category": "other",
+      "category": "social",
       "screenshots": [],
       "versions": [
         {
           "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/test/Seireitei.ipa",
           "size": 16500000,
+          "version": "1.0.1",
+          "date": "2025-06-16T01:52:00-05:00",
+          "localizedDescription": "Small UI changes",
+          "minOSVersion": null
+        },
+        {
           "version": "1.0",
-          "date": "2025-06-15T18:45:00-05:00",
+          "date": "2025-06-15T20:52:00-05:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/test/Seireitei.ipa",
+          "size": 16500000,
+          "buildVersion": null,
           "minOSVersion": null
         }
       ],
       "appPermissions": {
         "entitlements": [],
         "privacy": {}
-      }
+      },
+      "patreon": {}
     }
   ],
   "news": []
