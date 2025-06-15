@@ -1,0 +1,42 @@
+{
+  "name": "CyberNeel Apps",
+  "subtitle": "A source for all of my apps",
+  "description": "Welcome to my source! Here you'll find all of my apps.",
+  "iconURL": "https://i.imgur.com/OZYcgH2.png",
+  "website": "https://cyberneel.com",
+  "patreonURL": "",
+  "tintColor": "#6156e2",
+  "featuredApps": [],
+  "headerURL": "https://i.imgur.com/nhHq9ly.png",
+  "apps": [
+    {
+      "name": "Seireitei",
+      "bundleIdentifier": "com.cyberneel.Seireitei",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/umvBhR0.png",
+      "tintColor": "#3636c8",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/test/Seireitei.ipa",
+          "size": 16500000,
+          "version": "1.0",
+          "buildVersion": null,
+          "date": "2025-06-15T18:45:00-05:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    }
+  ],
+  "news": []
+}
