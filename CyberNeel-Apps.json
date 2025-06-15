@@ -11,7 +11,7 @@
     {
       "name": "Seireitei",
       "bundleIdentifier": "com.cyberneel.Seireitei",
-      "developerName": "Example Developer",
+      "developerName": "Neelesh Chevuri",
       "subtitle": "An awesome app.",
       "localizedDescription": "This is an awesome app only available on AltStore.",
       "iconURL": "https://i.imgur.com/umvBhR0.png",
@@ -23,7 +23,6 @@
           "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/test/Seireitei.ipa",
           "size": 16500000,
           "version": "1.0",
-          "buildVersion": null,
           "date": "2025-06-15T18:45:00-05:00",
           "localizedDescription": null,
           "minOSVersion": null
