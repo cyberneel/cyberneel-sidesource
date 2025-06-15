@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/SideStore/SideSource/main/schema.json",
+  "name": "CyberLeel Apps",  // Optional display name for your entire source
+  "inputs": [
+    {
+      "type": "github",
+      "repo": "cyberneel/Seireitei-public",
+      "tag": "latest",
+      "assetRegex": ".*\\.ipa$",
+      "appMetadata": {
+        "name": "Seireitei",
+        "bundleIdentifier": "com.cyberneel.Seireitei",
+        "developerName": "Neelesh Chevuri",
+        "subtitle": "Soul Society in Your Pocket",
+        "localizedDescription": "Create and manage your own Gotei 13.",
+        "iconURL": "https://raw.githubusercontent.com/cyberneel/Seireitei/main/icon.png"
+      },
+      "changelogLambda": "function:githubReleaseNotesToChangelog",
+      "dateLambda": "function:ipaAssetUpdatedAtToSourceDate"
+    }
+  ]
+}
