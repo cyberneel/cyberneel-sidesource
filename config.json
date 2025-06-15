@@ -1,7 +1,7 @@
 {
   "$schema": "https://github.com/SideStore/SideSource/raw/main/dist/schema.json",
   "source": {
-    "name": "CyberLeel Apps",
+    "name": "CyberNeel Apps",
     "identifier": "com.cyberneel.sidesource"
   },
   "inputs": [
