@@ -1,6 +1,9 @@
 {
-  "$schema": "https://raw.githubusercontent.com/SideStore/SideSource/main/schema.json",
-  "name": "CyberLeel Apps",  // Optional display name for your entire source
+  "$schema": "https://github.com/SideStore/SideSource/raw/main/dist/schema.json",
+  "source": {
+    "name": "CyberLeel Apps",
+    "identifier": "com.cyberneel.sidesource"
+  },
   "inputs": [
     {
       "type": "github",
