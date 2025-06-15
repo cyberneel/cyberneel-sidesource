@@ -19,7 +19,12 @@
       "iconURL": "https://i.imgur.com/0LzI2Uo.png",
       "tintColor": "#3636c8",
       "category": "social",
-      "screenshots": [],
+      "screenshots": [
+        "https://i.imgur.com/XynnPdh.png",
+        "https://i.imgur.com/1cjjDRH.png",
+        "https://i.imgur.com/1WvcAmV.png",
+        "https://i.imgur.com/tn6MutG.png"
+      ],
       "versions": [
         {
           "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/test/Seireitei.ipa",
