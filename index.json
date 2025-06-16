@@ -27,6 +27,14 @@
       ],
       "versions": [
         {
+        "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/1.0.3/Seireitei-1.0.3.ipa",
+        "size": 16500000,
+        "version": "1.0.3",
+        "date": "2025-06-15T20:50:00-05:00",
+        "localizedDescription": "Updates: 1. FIXED invite system (I hope :(, need to do more tests but it was working) 2. REVAMPED title page",
+        "minOSVersion": null
+        },
+        {
         "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/1.0.2/Seireitei-1.0.2.ipa",
         "size": 16500000,
         "version": "1.0.2",
