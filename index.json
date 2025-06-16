@@ -24,9 +24,18 @@
         "https://i.imgur.com/XynnPdh.png",
         "https://i.imgur.com/1cjjDRH.png",
         "https://i.imgur.com/1WvcAmV.png",
-        "https://i.imgur.com/tn6MutG.png"
+        "https://i.imgur.com/tn6MutG.png",
+        "https://private-user-images.githubusercontent.com/132800224/455346677-ef6a3f07-91a4-4ad6-992e-850110a4e1fa.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAwNTE0MzYsIm5iZiI6MTc1MDA1MTEzNiwicGF0aCI6Ii8xMzI4MDAyMjQvNDU1MzQ2Njc3LWVmNmEzZjA3LTkxYTQtNGFkNi05OTJlLTg1MDExMGE0ZTFmYS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwNjE2JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDYxNlQwNTE4NTZaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1lYmExNTEzMmJjNWU0YmUzZjhkMzcwMTU5MDA3MGNjZDM4Zjk0ZGM3OTRhN2EwNjMyYWVjZjZmMWMzYTE0MWMwJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.cvYDDrC0Gst-O8eEWq3S_QGVDq83gpH23Bzdg528rdY"
       ],
       "versions": [
+        {
+        "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/1.0.4/Seireitei-1.0.4.ipa",
+        "size": 16500000,
+        "version": "1.0.4",
+        "date": "2025-06-16T00:20:00-05:00",
+        "localizedDescription": "Updates: 1. Added active invites management",
+        "minOSVersion": null
+        },
         {
         "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/1.0.3/Seireitei-1.0.3.ipa",
         "size": 16500000,
