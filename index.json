@@ -29,6 +29,14 @@
       ],
       "versions": [
         {
+        "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/1.0.5/Seireitei-1.0.5.ipa",
+        "size": 16600000,
+        "version": "1.0.5",
+        "date": "2025-06-16T00:13:55-05:00",
+        "localizedDescription": "Updates: 1. Added a new projects tab that members across divisions can work on together.",
+        "minOSVersion": null
+        },
+        {
         "downloadURL": "https://github.com/cyberneel/Seireitei-public/releases/download/1.0.4/Seireitei-1.0.4.ipa",
         "size": 16500000,
         "version": "1.0.4",
